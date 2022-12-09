@@ -21,4 +21,4 @@ N/A
 MIT license, see LICENSE file for detail.
 
 ## Site Link
-Check it out here [https://gosem01.github.io/Module-1-Challenge/][website] for more detail.
+Check it out here [https://gosem01.github.io/Module-1-Challenge/] for more detail.
